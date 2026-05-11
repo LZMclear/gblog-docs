@@ -1,2 +1,3 @@
 # gblog-docs
-gblog文档
+
+gblog-docs仓库说明
